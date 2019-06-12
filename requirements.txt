@@ -1,0 +1,6 @@
+numpy==1.16.*
+ipywidgets==7.4.*
+scipy==1.*
+nbinteract==0.2.*
+pandas==0.24.*
+IPython==7.4.*
